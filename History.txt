@@ -1,0 +1,56 @@
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-03-21 12:25 PST
+Nmap scan report for csp3.zte.com.cn (192.168.1.1)
+Host is up (0.0083s latency).
+MAC Address: F8:64:B8:B1:57:4E (Unknown)
+Nmap scan report for realme-c25s (192.168.1.2)
+Host is up (0.092s latency).
+MAC Address: 42:14:1B:26:B3:52 (Unknown)
+Nmap scan report for oppo-a5s (192.168.1.4)
+Host is up (0.076s latency).
+MAC Address: 18:D0:C5:4E:55:2B (Unknown)
+Nmap scan report for oppo-a53 (192.168.1.7)
+Host is up (0.093s latency).
+MAC Address: 72:91:04:4D:4C:F7 (Unknown)
+Nmap scan report for oppo-a15 (192.168.1.12)
+Host is up (0.099s latency).
+MAC Address: 30:32:35:86:14:D8 (Unknown)
+Nmap scan report for 192.168.1.17 (192.168.1.17)
+Host is up (0.0069s latency).
+MAC Address: 5A:87:18:B0:31:3D (Unknown)
+Nmap scan report for 192.168.1.19 (192.168.1.19)
+Host is up (0.014s latency).
+MAC Address: 7E:C5:3D:5D:1E:7D (Unknown)
+Nmap scan report for 192.168.1.20 (192.168.1.20)
+Host is up (4.9s latency).
+MAC Address: 7E:65:49:84:48:55 (Unknown)
+Nmap scan report for oppo-a15 (192.168.1.23)
+Host is up (0.080s latency).
+MAC Address: DA:09:4B:9B:DE:8E (Unknown)
+Nmap scan report for oppo-a3s (192.168.1.27)
+Host is up (0.19s latency).
+MAC Address: B8:C7:4A:3F:DC:C7 (Guangdong Oppo Mobile Telecommunications)
+Nmap scan report for vivo-1901 (192.168.1.29)
+Host is up (0.068s latency).
+MAC Address: 0E:2C:52:3A:31:EA (Unknown)
+Nmap scan report for 192.168.1.31 (192.168.1.31)
+Host is up (4.9s latency).
+MAC Address: 5A:80:32:49:53:C1 (Unknown)
+Nmap scan report for 192.168.1.33 (192.168.1.33)
+Host is up (4.9s latency).
+MAC Address: A4:F0:5E:D4:AC:07 (Unknown)
+Nmap scan report for realme-c21y (192.168.1.35)
+Host is up (0.14s latency).
+MAC Address: 16:74:3D:A1:BA:A3 (Unknown)
+Nmap scan report for galaxy-tab-a7-lite (192.168.1.36)
+Host is up (0.15s latency).
+MAC Address: 56:19:72:4E:F3:28 (Unknown)
+Nmap scan report for 192.168.1.38 (192.168.1.38)
+Host is up (9.3s latency).
+MAC Address: 22:3F:90:B7:E4:B4 (Unknown)
+Nmap scan report for charlyn (192.168.1.39)
+Host is up (9.3s latency).
+MAC Address: C2:F6:35:0F:5B:01 (Unknown)
+Nmap scan report for jack (192.168.1.73)
+Host is up.
+Nmap done: 256 IP addresses (18 hosts up) scanned in 23.25 seconds
